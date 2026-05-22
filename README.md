@@ -1,48 +1,13 @@
-# Find-benchmark
-# 📚 Market Research: หนังสือเภสัชพันธุศาสตร์สำหรับประชาชน
-
-> **รายงาน Benchmark ฉบับสมบูรณ์** · ปี 2568 (2025–2026)  
+# Find-benchmark  
 > วิเคราะห์ตลาดหนังสือ Pharmacogenetics เปรียบเทียบ ไทย · สหรัฐอเมริกา · ยุโรป · เอเชียตะวันออกเฉียงใต้
 
------
+## Benchmark Books ทั้ง 5 เล่ม
 
-## สารบัญ
-
-1. [บทสรุปผู้บริหาร](#1-บทสรุปผู้บริหาร)
-1. [Benchmark Books ทั้ง 5 เล่ม](#2-benchmark-books-ทั้ง-5-เล่ม)
-1. [Gap Analysis Table](#3-gap-analysis-table)
-1. [ข้อเสนอแนะการเพิ่มเนื้อหา](#4-ข้อเสนอแนะการเพิ่มเนื้อหา)
-1. [แหล่งอ้างอิงสำหรับ Market Research ต่อไป](#5-แหล่งอ้างอิงสำหรับ-market-research-ต่อไป)
-1. [ข้อสรุปเชิงกลยุทธ์](#6-ข้อสรุปเชิงกลยุทธ์)
+### ในกลุ่มไทย
 
 -----
 
-## 1. บทสรุปผู้บริหาร
-
-### 🎯 ข้อค้นพบสำคัญ: ช่องว่างทางการตลาดที่ชัดเจน
-
-จากการสำรวจหนังสือ Pharmacogenetics ทั้งในไทย สหรัฐอเมริกา ยุโรป และเอเชียตะวันออกเฉียงใต้ พบว่า **ไม่มีหนังสือเล่มใดในโลก** ที่เขียนเรื่อง Pharmacogenetics สำหรับ **ประชาชนทั่วไปที่ไม่มีพื้นฐานทางการแพทย์** โดยเฉพาะ และยิ่งไม่มีเลยในภาษาไทย
-
-หนังสือที่มีอยู่ทั้งหมดเขียนสำหรับแพทย์ เภสัชกร นักศึกษา หรือนักวิจัยเท่านั้น
-
-> ✅ หากหนังสือที่กำลังพัฒนาสำเร็จ จะเป็น **“เจ้าแรกในโลก”** ของหนังสือ PGx สำหรับประชาชนทั่วไปในภาษาไทย
-
-### จุดแข็งเชิงกลยุทธ์
-
-- เขียนสำหรับ **ประชาชน** ไม่ใช่คลินิก — ไม่มีคู่แข่งทั้งในไทยและต่างประเทศ
-- มีมุมมอง **เฉพาะคนไทย/เอเชีย** (HLA-B*15:02, HLA-B*58:01) ที่ไม่มีในหนังสือต่างประเทศ
-- เนื้อหาหลักครอบคลุมดีเทียบเท่าหนังสือวิชาการระดับสากล
-- รูปแบบการเล่าเรื่องผ่านคำถามของประชาชน — เป็น USP ที่แข็งแกร่ง
-
------
-
-## 2. Benchmark Books ทั้ง 5 เล่ม
-
-### 🇹🇭 กลุ่มไทย
-
------
-
-#### 📄 Pharmacogenetics: Basic Concept for Pharmacists
+####  Pharmacogenetics: Basic Concept for Pharmacists
 
 |รายการ        |รายละเอียด                                   |
 |--------------|--------------------------------------------|
@@ -52,23 +17,24 @@
 |**ประเภท**    |CPE Article · รับรองโดยสภาเภสัชกรรม 2.5 หน่วยกิต|
 |**กลุ่มเป้าหมาย**|เภสัชกรวิชาชีพเท่านั้น                            |
 
-**สารบัญ:**
+**เนื้อหา:**
+- บทนำเกี่ยวกับ Pharmacogenetics
+- ความสำคัญของ Pharmacogenetics ในทางคลินิก
+- ความรู้พื้นฐานทางพันธุศาสตร์
+- คำศัพท์สำคัญทาง Pharmacogenetics
+- การเปลี่ยนแปลงทางพันธุกรรม (Genetic Variation)
+- Genome-wide Association Study (GWAS)
+- การตรวจ Genotype (Genotyping)
+- วิธีการตรวจ SNPs และเทคนิคต่าง ๆ
+- การประยุกต์ใช้ Pharmacogenetics ในทางคลินิก
+- ตัวอย่างยีนและยาที่เกี่ยวข้อง
+- บทบาทของเภสัชกรในงาน Pharmacogenetics
 
-- ความสำคัญ PGx ทางคลินิก
-- DNA, Chromosome, Gene, Nucleotide
-- SNP, Indels, CNV, Structural Variation
-- Genotyping: TaqMan, SNaPshot, Illumina
-- HLA-B*58:01 / Allopurinol
-- CYP2C19 / Clopidogrel, CYP2D6 / Codeine
-- CPIC Guidelines + PharmGKB
-- Pre-emptive vs. Reactive Genotyping
+> **ช่องว่าง:** เป็นบทความ CPE ไม่ใช่หนังสือเป็นเล่ม · ภาษาวิชาการบางอย่างอาจจะไม่เหมาะประชาชน · ไม่ครอบคลุม Prodrug / DDGI / ผู้สูงอายุ  
+>  นี่คือเอกสารวิชาชีพชิ้นเดียวที่เขียนเรื่อง PGx เป็นภาษาไทย 
 
-> ⚠️ **ช่องว่าง:** เป็นบทความ CPE ไม่ใช่หนังสือเล่ม · ภาษาวิชาการ ไม่เหมาะประชาชน · ไม่ครอบคลุม Prodrug / DDGI / ผู้สูงอายุ  
-> 💡 นี่คือเอกสารวิชาชีพชิ้นเดียวที่เขียนเรื่อง PGx เป็นภาษาไทย — **ยังไม่มีหนังสือ PGx ภาษาไทยสำหรับประชาชนเลยแม้แต่เล่มเดียว**
 
------
-
-#### 🏛️ หนังสือ Pharmacogenetics จากมหาวิทยาลัยราชภัฏยะลา
+####  หนังสือ Pharmacogenetics จากมหาวิทยาลัยราชภัฏยะลา
 
 |รายการ        |รายละเอียด                                       |
 |--------------|------------------------------------------------|
@@ -77,15 +43,14 @@
 |**กลุ่มเป้าหมาย**|นักศึกษาในระบบ                                    |
 
 
-> 🔍 **สถานะ:** พบใน OPAC แต่ไม่มีข้อมูลสารบัญสาธารณะ — ต้องไปดูที่ห้องสมุดโดยตรง หรือติดต่อห้องสมุด YRU เพื่อขอสำเนาสารบัญ
+>  **สถานะ:** พบใน OPAC แต่ไม่มีข้อมูลสารบัญสาธารณะ 
+-----
+
+###  กลุ่มสหรัฐอเมริกา
 
 -----
 
-### 🇺🇸 กลุ่มสหรัฐอเมริกา
-
------
-
-#### 📗 Principles of Pharmacogenetics and Pharmacogenomics
+#### Principles of Pharmacogenetics and Pharmacogenomics
 
 |รายการ        |รายละเอียด                               |
 |--------------|----------------------------------------|
@@ -112,7 +77,7 @@
 - HIV / Antiretroviral drugs
 - Pediatrics & Neonatal medicine
 
-> ⚠️ **เนื้อหาที่เราอาจยังขาด:** ยามะเร็ง · ยา HIV · ยาลดน้ำตาล · Drug-induced Long QT · Rheumatology · ELSI
+>  **เนื้อหาที่เราอาจยังขาด:** ยามะเร็ง · ยา HIV · ยาลดน้ำตาล · Drug-induced Long QT · Rheumatology · ELSI
 
 -----
 
@@ -123,28 +88,28 @@
 |**บรรณาธิการ** |Martin M. Zdanowicz|
 |**สำนักพิมพ์**    |ASHP Publications  |
 |**ปี**         |2017               |
-|**ISBN**      |978-1-58528-517-4  |
+|**ISBN**      |978-1-58528-5167 |
 |**กลุ่มเป้าหมาย**|เภสัชกร · นักศึกษาเภสัช|
 
-**สารบัญ (16 บท ใน 3 ภาค):**
+**สารบัญ ( 3 Part):**
 
 |ภาค                     |บท                                                                                                                                             |
 |------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-|ภาค 1: Fundamentals     |Basic genetic concepts · Methodologies (NGS) · PK/PD · Drug metabolizing enzymes                                                               |
-|ภาค 2: Therapeutic Areas|Cardiovascular · Hematology/Oncology · CNS · Infectious diseases · Respiratory · Toxicogenomics                                                |
-|ภาค 3: Implementation   |Ethical considerations · Role of pharmacists · Drug addiction PGx · Antidiabetic drugs · Point-of-care testing · Chemotherapy individualization|
+|Part 1: Fundamentals of Phamacogenomics  |Basic genetic concepts · Methodologies (NGS) · PK/PD · Drug metabolizing enzymes                                                               |
+|Part 2: Application of Pharmacogenomics in Therapeutic |Cardiovascular · Hematology/Oncology · CNS · Infectious diseases · Respiratory · Toxicogenomics                                                |
+|Part 3: Implementation Issues in Phamacogenomics |Ethical considerations · Role of pharmacists · Drug addiction PGx · Antidiabetic drugs · Point-of-care testing · Chemotherapy individualization|
 
 
-> 💡 **เล่มที่ใกล้สไตล์ที่เราอยากทำมากที่สุด** — มี case studies ทุกบท, clinical pearls, ตาราง ครบ แต่ยังเขียนสำหรับเภสัชกร ไม่ใช่ประชาชน  
-> ⚠️ **เนื้อหาที่เราอาจยังขาด:** Toxicogenomics · Drug addiction PGx · Antidiabetics · Point-of-care testing · Infectious diseases PGx · Ethical considerations (บทแยก)
-
------
-
-### 🇬🇧 กลุ่มยุโรป
+> — มี case studies ทุกบท, clinical pearls, ตาราง ครบ แต่ยังเขียนสำหรับเภสัชกร ไม่ใช่ประชาชน  
+>  **เนื้อหาที่เราอาจยังขาด:** Toxicogenomics · Drug addiction PGx · Antidiabetics · Point-of-care testing · Infectious diseases PGx · Ethical considerations (บทแยก)
 
 -----
 
-#### 📙 Pharmacogenetics (1st Ed.)
+###  ในกลุ่มยุโรป
+
+-----
+
+#### Pharmacogenetics (1st Ed.)
 
 |รายการ        |รายละเอียด                    |
 |--------------|-----------------------------|
@@ -154,24 +119,24 @@
 |**ISBN**      |978-0-8247-2884-7            |
 |**กลุ่มเป้าหมาย**|แพทย์ · นักวิจัย                 |
 
-**สารบัญ (2 ภาค):**
+**สารบัญ (2 Part):**
 
 |ภาค                     |บท                                                                                                                                                                                                                                       |
 |------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|ภาค 1: Methods          |Identification of Treatment Response Genes · Methods of Genotyping · Pharmacoproteomics · Potential Social & Ethical Issues                                                                                                              |
-|ภาค 2: Therapeutic Areas|Adverse Drug Reactions · Respiratory Disease · Hematological PGx · PGx in Oncology · Infectious Diseases · **Rheumatology** · Cardiovascular Medicine · **Metabolic Disease** · **Gastroenterology** · Genetics of Antipsychotic Response|
+|Part 1: Principles of pharmacogenetics  |Identification of Treatment Response Genes · Methods of Genotyping · Pharmacoproteomics · Potential Social & Ethical Issues                                                                                                              |
+|ภาค 2: Clinical Practics and Pharmacogenetics |Adverse Drug Reactions · Respiratory Disease · Hematological PGx · PGx in Oncology · Infectious Diseases · **Rheumatology** · Cardiovascular Medicine · **Metabolic Disease** · **Gastroenterology** · Genetics of Antipsychotic Response|
 
 
-> ✅ **เนื้อหาพิเศษที่มีเฉพาะเล่มนี้:** Rheumatology (บทแยก) · Metabolic Disease (บทแยก) · Gastroenterology (บทแยก) · Pharmacoproteomics · Hematology (บทแยก)  
-> ⚠️ **เนื้อหาที่เราอาจยังขาด:** Rheumatology · Hematology (แยกบท) · Metabolic Disease · ELSI (บทแยก)
-
------
-
-### 🌐 Wiley — เพิ่มใหม่ในการวิเคราะห์รอบนี้ `NEW`
+> **เนื้อหาพิเศษที่มีเฉพาะเล่มนี้:** Rheumatology (บทแยก) · Metabolic Disease (บทแยก) · Gastroenterology (บทแยก) · Pharmacoproteomics · Hematology (บทแยก)  
+>  **เนื้อหาที่เราอาจยังขาด:** Rheumatology · Hematology (แยกบท) · Metabolic Disease · ELSI (บทแยก)
 
 -----
 
-#### 📕 Pharmacogenetics and Individualized Therapy
+### Wiley 
+
+-----
+
+####  Pharmacogenetics and Individualized Therapy
 
 |รายการ        |รายละเอียด                                                                |
 |--------------|-------------------------------------------------------------------------|
@@ -182,7 +147,7 @@
 |**จำนวนหน้า**   |510 หน้า                                                                  |
 |**กลุ่มเป้าหมาย**|นักศึกษาระดับบัณฑิต (แพทย์ เภสัช เภสัชวิทยา) + นักวิจัยอุตสาหกรรม                     |
 
-**สารบัญฉบับเต็ม (18 บท ใน 6 ภาค):**
+**สารบัญฉบับเต็ม (18 บท ใน 6 Part):**
 
 **PART I · Pharmacokinetics & Pharmacodynamics**
 
@@ -233,12 +198,12 @@
 |Ch.18|Pharmacogenetics: Possibilities and Pitfalls|
 
 
-> ✅ **เนื้อหาที่มีเฉพาะ Wiley เล่มนี้:** IBD PGx (บทแยก) · Pharmaceutical R&D · FDA/EMA Registration · High-Throughput Genotyping · PGx Dataset Analysis (GWAS) · Historical Perspective (บทแยก)  
-> 🔵 **จุดเด่นพิเศษ:** เล่มเดียวใน 5 เล่ม Benchmark ที่มีบทแยกด้าน **Industry & Regulatory Affairs** และบท ADR ที่เขียนโดย Pirmohamed ถือว่าครบที่สุด
+>  **เนื้อหาที่มีเฉพาะ Wiley เล่มนี้:** IBD PGx (บทแยก) · Pharmaceutical R&D · FDA/EMA Registration · High-Throughput Genotyping · PGx Dataset Analysis (GWAS) · Historical Perspective (บทแยก)  
+>  **จุดเด่นพิเศษ:** เล่มเดียวใน 5 เล่ม Benchmark ที่มีบทแยกด้าน **Industry & Regulatory Affairs** และบท ADR ที่เขียนโดย Pirmohamed ถือว่าครบที่สุด
 
 -----
 
-### 🌏 เอเชียตะวันออกเฉียงใต้ (มาเลเซีย · สิงคโปร์ · เวียดนาม)
+### ในเอเชียตะวันออกเฉียงใต้ (มาเลเซีย · สิงคโปร์ · เวียดนาม)
 
 |ประเทศ     |สถานการณ์                                                                              |
 |-----------|--------------------------------------------------------------------------------------|
@@ -248,11 +213,11 @@
 |**ไทย**    |มีเครือข่าย SEAPharm + Genomics Thailand WGS แต่ยังไม่มีหนังสือ PGx ภาษาไทยสำหรับประชาชน         |
 
 
-> 🚨 **สรุป SEA:** ไม่พบหนังสือ Pharmacogenetics สำหรับประชาชนในภาษาใดๆ ของ SEA เลย — นี่คือ **โอกาสทองของหนังสือที่กำลังพัฒนา**
+>  **สรุป SEA:** ไม่พบหนังสือ Pharmacogenetics สำหรับประชาชนในภาษาใดๆ ของ SEA 
 
 -----
 
-## 3. Gap Analysis Table
+##  Gap Analysis Table
 
 |เนื้อหา                                    |เรา         |Hall/Pirmohamed 🇬🇧 CRC|Zdanowicz 🇺🇸 ASHP|Altman 🇺🇸 Cambridge|Maitland/Daly 🌐 Wiley|
 |-----------------------------------------|------------|---------------------|----------------|------------------|---------------------|
@@ -290,15 +255,12 @@
 
 -----
 
-## 4. ข้อเสนอแนะการเพิ่มเนื้อหา
+##  ข้อเสนอแนะเพิ่มเติม
 
-> 📋 **หลักการพิจารณา:** เราไม่จำเป็นต้องเพิ่มทุกอย่างที่คู่แข่งมี เพราะจุดยืนของหนังสือคือ “สำหรับประชาชน” ไม่ใช่ตำรา ดังนั้นควรเพิ่มเฉพาะเนื้อหาที่ **ประชาชนมีโอกาสเจอในชีวิตจริง** หรือมีผลต่อการตัดสินใจของผู้อ่านจริงๆ
 
------
+###  บทที่ 7 · ยาหัวใจและหลอดเลือด
 
-### ⚡ บทที่ 7 · ยาหัวใจและหลอดเลือด
-
-**➕ เพิ่ม: ยาลดน้ำตาล (Metformin, Sulfonylurea, Pioglitazone)**  
+** เพิ่ม: ยาลดน้ำตาล (Metformin, Sulfonylurea, Pioglitazone)**  
 `ลำดับความสำคัญ: สูงมาก` `พบในทุกเล่มคู่แข่ง (3/5)` `โรคเบาหวานพบมากในไทย`
 
 โรคเบาหวานเป็น 1 ใน 5 โรคที่คนไทยป่วยมากที่สุด ยา Sulfonylurea มีความสัมพันธ์กับ CYP2C9 ซึ่งมีความแตกต่างในคนเอเชียชัดเจน ยา Metformin มีความสัมพันธ์กับ SLC22A1 (OCT1) — ควรเพิ่มเป็นหัวข้อย่อยหรือตัวอย่างเสริมท้ายบท
