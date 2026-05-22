@@ -81,7 +81,7 @@
 
 -----
 
-#### 📘 Concepts in Pharmacogenomics (2nd Ed.)
+####  Concepts in Pharmacogenomics (2nd Ed.)
 
 |รายการ        |รายละเอียด          |
 |--------------|-------------------|
@@ -264,117 +264,50 @@
 `ลำดับความสำคัญ: สูงมาก` `พบในทุกเล่มคู่แข่ง (3/5)` `โรคเบาหวานพบมากในไทย`
 
 โรคเบาหวานเป็น 1 ใน 5 โรคที่คนไทยป่วยมากที่สุด ยา Sulfonylurea มีความสัมพันธ์กับ CYP2C9 ซึ่งมีความแตกต่างในคนเอเชียชัดเจน ยา Metformin มีความสัมพันธ์กับ SLC22A1 (OCT1) — ควรเพิ่มเป็นหัวข้อย่อยหรือตัวอย่างเสริมท้ายบท
-
 -----
 
-### 🟡 บทที่ 8 · ยาจิตเวชและยาแก้ปวด
+### บทที่ 8 · ยาจิตเวชและยาแก้ปวด
 
-**➕ เพิ่ม: ยากันชัก Phenytoin (CYP2C9) และ Valproate**  
+** เพิ่ม: ยากันชัก Phenytoin (CYP2C9) และ Valproate**  
 `ลำดับความสำคัญ: แนะนำ` `เชื่อมกับ HLA ในบท 9`
 
 Phenytoin มีความสัมพันธ์กับ CYP2C9 ซึ่งพบใน CPIC Level A ผู้อ่านที่มีผู้ป่วยโรคลมชักในครอบครัวจะได้ประโยชน์โดยตรง และยังเชื่อมต่อกับบทที่ 9 เรื่อง HLA กับ Carbamazepine ได้อย่างเป็นธรรมชาติ
 
 -----
 
-### 🟡 บทที่ 9 · ยีน HLA และปฏิกิริยารุนแรง
+### บทที่ 9 · ยีน HLA และปฏิกิริยารุนแรง
 
-**➕ เพิ่ม: HLA-B*57:01 กับ Abacavir (ยา HIV) + ADR Framework**  
+** เพิ่ม: HLA-B*57:01 กับ Abacavir (ยา HIV) + ADR Framework**  
 `ลำดับความสำคัญ: แนะนำ` `พบในทุกเล่มคู่แข่ง` `Wiley เพิ่มมุม ADR`
 
 HLA-B*57:01 กับ Abacavir เป็นตัวอย่างคลาสสิคของ PGx-guided prescribing ที่ FDA รับรอง เล่ม Wiley เขียน ADR เป็นบทแยกซึ่งช่วยให้ผู้อ่านเห็นภาพรวมว่า “ยาทุกตัวล้วนมีความเสี่ยง ADR — PGx ช่วยป้องกันได้อย่างไร” ควรเพิ่มกรอบนี้เป็นหัวข้อย่อยในบทที่ 9
 
 -----
 
-### 🟡 บทที่ 7 หรือภาคผนวก
+### ภาคผนวก
 
-**➕ เพิ่ม: ยา PPI กับ CYP2C19 (Omeprazole / Pantoprazole)**  
+** เพิ่ม: ยา PPI กับ CYP2C19 (Omeprazole / Pantoprazole)**  
 `ลำดับความสำคัญ: แนะนำ` `ยาที่ประชาชนเจอบ่อยมาก` `พบใน Wiley (IBD/Gastro)`
 
 Proton Pump Inhibitors เป็นยาที่ถูกใช้บ่อยมากในไทยสำหรับกรดไหลย้อนและการรักษา H. pylori ทั้งหมดนี้ controlled โดย CYP2C19 ซึ่งเราพูดถึงในบทที่ 3 และ 7 อยู่แล้ว ควรเพิ่มเป็น Box หรือ Case Study ที่แสดงให้ผู้อ่านเห็นว่า “ยาที่กินอยู่ทุกวันก็เกี่ยวกับ PGx นะ”
 
 -----
 
-### ⚡ บทใหม่ที่แนะนำ (ก่อนบทที่ 13)
+###  บทใหม่ (ก่อนบทที่ 13)
 
-**➕ เพิ่ม: “ใครเป็นเจ้าของ DNA ของคุณ?” — จริยธรรมและความเป็นส่วนตัว (ELSI)**  
+** เพิ่ม: “ใครเป็นเจ้าของ DNA ของคุณ?” — จริยธรรมและความเป็นส่วนตัว (ELSI)**  
 `ลำดับความสำคัญ: สูงมาก` `พบในทุก 4 เล่มสากล` `ประชาชนต้องการข้อมูลนี้มากที่สุด`
 
 นี่คือเนื้อหาที่ประชาชนถามมากที่สุดเมื่อเริ่มสนใจการตรวจพันธุกรรม: “ผลตรวจพันธุกรรมจะถูกนำไปใช้ทำอะไร?” “บริษัทประกันภัยจะรู้ได้ไหม?” “ข้อมูลลูกหลานจะถูกกระทบหรือเปล่า?” เล่ม Wiley เขียนโดย Vijverberg, Pieters, Cornel เน้น social + ethical framing ควรเพิ่มเป็นบทใหม่ 1 บท
 
 -----
 
-### ⭐ บทใหม่ที่แนะนำ (หรือขยายบทที่ 12)
+###  ขยายบทที่ 12
 
-**⭐ เพิ่ม: “ยีนคนไทย” — ข้อมูลพันธุกรรมเฉพาะประชากรไทยและเอเชียตะวันออกเฉียงใต้**  
+** เพิ่ม: “ยีนคนไทย” — ข้อมูลพันธุกรรมเฉพาะประชากรไทยและเอเชียตะวันออกเฉียงใต้**  
 `USP สูงสุด` `ไม่มีในหนังสือทั้ง 5 เล่มเลย`
 
 นี่คือจุดขายที่แข็งแกร่งที่สุดของหนังสือเล่มนี้ ความถี่ของ HLA-B*15:02 ในคนไทยสูงกว่าคนยุโรปมาก ข้อมูล Genomics Thailand WGS 949 คน และ Thai 51 pharmacogenes WGS ให้ข้อมูลที่ไม่มีในหนังสือฝรั่งแม้แต่เล่มเดียว ควรขยายบทที่ 12 ให้มีตารางเปรียบเทียบความถี่อัลลีลไทย vs. ยุโรป vs. เอเชียตะวันออก
 
------
 
-## 5. แหล่งอ้างอิงสำหรับ Market Research ต่อไป
 
-### 📚 แหล่งค้นหาหนังสือ Benchmark
-
-|แหล่ง                                                                                                                                                   |วิธีค้น / สิ่งที่จะได้                                                 |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
-|[CRC Press / Routledge](https://www.routledge.com/Pharmacogenetics/Hall-Pirmohamed/p/book/9780824728847)                                               |ค้น “pharmacogenetics” → filter Books → ดู Look Inside TOC       |
-|[ASHP Publications](https://publications.ashp.org)                                                                                                     |ค้น “pharmacogenomics” → ดู Zdanowicz ฉบับล่าสุด                    |
-|[Cambridge University Press](https://www.cambridge.org/core/books/principles-of-pharmacogenetics-and-pharmacogenomics/2C662AC71198582B5BD381F6426A39AD)|ดู Altman et al. → Look Inside → Chapter List                   |
-|[Wiley (Maitland-van der Zee)](https://www.wiley.com/en-us/Pharmacogenetics+and+Individualized+Therapy-p-9781118116487) ⭐ NEW                          |18 บท ใน 6 ภาค — ครอบคลุม Regulatory Affairs และ Industry มากที่สุด|
-|[Amazon.com](https://www.amazon.com/s?k=pharmacogenetics&i=stripbooks)                                                                                 |ค้น “pharmacogenetics” → เรียง Best Seller → ดู Look Inside       |
-|[Google Books](https://books.google.com/books?q=pharmacogenetics)                                                                                      |ดู preview TOC ฟรี                                               |
-|[WorldCat](https://www.worldcat.org/search?q=pharmacogenetics)                                                                                         |ดูว่าห้องสมุดโลกมีเล่มอะไรบ้าง                                        |
-
-### 🔬 ฐานข้อมูลวิทยาศาสตร์ PGx
-
-|แหล่ง                                                                                                      |ใช้สำหรับ                                       |
-|----------------------------------------------------------------------------------------------------------|---------------------------------------------|
-|[PharmGKB](https://www.pharmgkb.org)                                                                      |gene-drug pairs, clinical annotations ครบที่สุด |
-|[CPIC](https://cpicpgx.org)                                                                               |แนวทางระดับ A–C ทั้งหมด + dosing recommendations|
-|[PharmVar](https://www.pharmvar.org)                                                                      |Star allele nomenclature อ้างอิงมาตรฐาน        |
-|[FDA PGx Table](https://www.fda.gov/medical-devices/precision-medicine/table-pharmacogenetic-associations)|ยาที่ FDA รับรอง label ด้าน PGx                  |
-|[NIH Medical Genetics Summaries](https://www.ncbi.nlm.nih.gov/books/NBK61999)                             |สรุป peer-reviewed ทุก gene-drug อ่านฟรี         |
-
-### 🇹🇭 ข้อมูลเฉพาะไทยและ SEA
-
-|แหล่ง                                                                                                                                                                                               |ใช้สำหรับ                               |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
-|[SEAPharm paper (PMC7862625)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7862625/)                                                                                                               |PGx variants 100 ยีนทั่ว SEA ครบที่สุด     |
-|[Genomics Thailand WGS](https://www.nature.com/articles/s41598-024-79018-6)                                                                                                                        |ข้อมูล WGS คนไทย 949 คน (2024)         |
-|[Thai 51 pharmacogenes WGS](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8853512/)                                                                                                                 |landscape พันธุกรรม pharmacogenes คนไทย|
-|[OPAC ห้องสมุด YRU](https://opac.yru.ac.th/bibitem?bibid=b00048897)                                                                                                                                  |ดูสารบัญหนังสือ PGx ไทยที่มีอยู่              |
-|[Rama PGX Lecture Notes (Mahidol)](https://www.rama.mahidol.ac.th/academic/sites/default/files/public/files/staff-advancement/advancement-work/lectures/เอกสารประกอบคำบรรยาย%203_การแปลผล%20PGX.pdf)|การแปลผล PGX ภาษาไทย — มหาวิทยาลัยมหิดล |
-|สภาเภสัชกรรม / SMPC Thailand                                                                                                                                                                        |CPE articles ภาษาไทยที่มีอยู่ทั้งหมด        |
-
------
-
-## 6. ข้อสรุปเชิงกลยุทธ์
-
-> 🏆 **จุดยืนของหนังสือในตลาดโลก:** หนังสือที่กำลังพัฒนาอยู่นี้มีจุดยืนที่ **ไม่ซ้ำกับใครในโลก** — เขียนเรื่อง Pharmacogenetics ในภาษาไทย สำหรับประชาชนทั่วไป ด้วยมุมมองเฉพาะคนไทยและเอเชียตะวันออกเฉียงใต้ สิ่งนี้ไม่มีในตลาดทั้งไทยและต่างประเทศ แม้แต่ใน Benchmark ทั้ง 5 เล่ม
-
-### ⚡ เพิ่มทันที (ลำดับความสำคัญสูงสุด)
-
-1. **บทจริยธรรม/ความเป็นส่วนตัว (ELSI)** — พบในทุก 4 เล่มสากล ประชาชนถามมากที่สุด
-1. **ยาลดน้ำตาล (CYP2C9 + SU)** — โรคเบาหวานพบมากในไทย
-1. **ยา PPI / CYP2C19** — ยาในชีวิตประจำวัน
-
-### 🟡 พิจารณาตามกลุ่มเป้าหมาย
-
-1. **ยามะเร็ง (TPMT/DPYD)** — ซับซ้อนแต่ผู้ป่วยมะเร็งต้องการ
-1. **HLA-B*57:01 กับยา HIV** — เพิ่มในบท 9 ไม่ต้องทำบทใหม่
-1. **ADR Framework (จาก Wiley)** — เพิ่มหัวข้อย่อย
-
-### ✨ USP ที่แข็งที่สุด — ขยายให้เต็ม
-
-ข้อมูล **เฉพาะคนไทย**: ความถี่ HLA-B*15:02 ในไทย vs. ยุโรป, Genomics Thailand WGS, ทำไม “ยีนของคนไทย” ถึงต่างจากตำราฝรั่ง — ไม่มีในหนังสือแม้แต่เล่มเดียวในโลก
-
-### 🔵 ไม่จำเป็นต้องเพิ่ม (สำหรับหนังสือประชาชน)
-
-Industry R&D PGx · FDA/EMA Registration Process · High-Throughput Genotyping Technology · GWAS Dataset Analysis · Toxicogenomics · Drug Addiction PGx · Rheumatology — เหล่านี้เหมาะสำหรับตำราวิชาชีพหรือนักวิจัยเท่านั้น
-
------
-
-*รายงาน Market Research: หนังสือเภสัชพันธุศาสตร์สำหรับประชาชน (ฉบับปรับปรุง v2) · จัดทำปี 2568*  
-*Benchmark: CRC Press (Hall/Pirmohamed) · ASHP (Zdanowicz) · Cambridge UP (Altman) · Wiley (Maitland-van der Zee/Daly)*  
-*ข้อมูลอ้างอิงจาก PharmGKB · CPIC · SEAPharm · Genomics Thailand*
