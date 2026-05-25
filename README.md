@@ -11,10 +11,10 @@
 
 |รายการ        |รายละเอียด                                   |
 |--------------|--------------------------------------------|
-|**ผู้เรียบเรียง** |ดร.ภก.ศุภทัต ชุมนุมวัฒน์                          |
+|**ผู้เรียบเรียง** |ดร.อ.ภก.ศุภทัต ชุมนุมวัฒน์                          |
 |**สังกัด**      |คณะเภสัชศาสตร์ มหาวิทยาลัยมหิดล                  |
 |**ปี**         |2559                                        |
-|**ประเภท**    |CPE Article · รับรองโดยสภาเภสัชกรรม 2.5 หน่วยกิต|
+|**ประเภท**    |CPE Article · รับรองโดยสภาเภสัชกรรม |
 |**กลุ่มเป้าหมาย**|เภสัชกรวิชาชีพเท่านั้น                            |
 
 **เนื้อหา:**
@@ -31,7 +31,7 @@
 - บทบาทของเภสัชกรในงาน Pharmacogenetics
 
 > **ช่องว่าง:** เป็นบทความ CPE ไม่ใช่หนังสือเป็นเล่ม · ภาษาวิชาการบางอย่างอาจจะไม่เหมาะประชาชน · ไม่ครอบคลุม Prodrug / DDGI / ผู้สูงอายุ  
->  นี่คือเอกสารวิชาชีพชิ้นเดียวที่เขียนเรื่อง PGx เป็นภาษาไทย 
+>  เป็นเอกสารวิชาชีพอันเดียวที่เขียนเรื่อง PGx เป็นภาษาไทย 
 
 
 ####  หนังสือ Pharmacogenetics จากมหาวิทยาลัยราชภัฏยะลา
@@ -54,28 +54,41 @@
 
 |รายการ        |รายละเอียด                               |
 |--------------|----------------------------------------|
-|**บรรณาธิการ** |Altman, Flockhart, Goldstein            |
+|**บรรณาธิการ** |Russ B. Altman, David Flockhart, David B. Goldstein            |
 |**สำนักพิมพ์**    |Cambridge University Press              |
-|**ISBN**      |978-0-521-69012-9                       |
+|**ISBN**      |978-0-521-88537-9                       |
 |**กลุ่มเป้าหมาย**|นักศึกษาแพทย์/เภสัช · นักวิจัย · บุคลากรสาธารณสุข|
 
 **สารบัญ:**
 
-- Genetic variation & drug response phenotypes
-- Genotyping technologies & biomarkers
-- Legal, ethical, social implications (ELSI)
-- Oncologic drugs (ยามะเร็ง)
-- Cardiovascular drugs & Statins
-- Drug-induced Long QT syndrome
-- Diabetes drugs (ยาลดน้ำตาล)
-- Respiratory drugs
-- GI drugs (PPI, IBD)
-- Rheumatoid arthritis drugs
-- Obstetric drugs
-- Psychiatric drugs
-- Pain & Anesthesia
-- HIV / Antiretroviral drugs
-- Pediatrics & Neonatal medicine
+Part I: Critical Concepts
+
+1. Introduction to Population Diversity and Genetic Testing
+2. Genotyping Technologies
+3. Pharmacokinetics: Absorption, Distribution, Metabolism, Excretion Overview Chapter
+4. Overview: Adverse Drug Reactions
+5. PharmGKB, a Centralized Resource for Pharmacogenomic Knowledge and Discovery
+6. DrugBank
+7. Ethical Considerations for Pharmacogenomics: Privacy and Confidentiality
+8. Informed Consent in Pharmacogenomic Research and Treatment
+9. Legal Trends Driving the Clinical Translation of Pharmacogenomics
+
+Part II: Therapeutic Areas
+
+10. Oncologic Drugs
+11. Pharmacogenetics and Pharmacogenomics of Cardiovascular Disease
+12. Statin-Induced Muscle Toxicity
+13. Genomics of the Drug-Induced Long-QT Syndrome
+14. Pharmacogenetics of Diabetes
+15. Pharmacogenetics – Therapeutic Area – Respiratory
+16. Pharmacogenomics Associated with Therapy for Acid-Related Disorders
+17. Pharmacogenetics of Rheumatology: Focus on Rheumatoid Arthritis
+18. Pharmacogenetics of Obstetric Therapeutics
+19. Pharmacogenomics of Psychiatric Drugs
+20. Pain and Anesthesia
+21. HIV and Antiretroviral Therapy
+22. Application of Pharmacogenetics and Pharmacogenomics in Pediatrics: What Makes Children Different?
+23. Fetal and Neonatal Pharmacogenomics
 
 >  **เนื้อหาที่เราอาจยังขาด:** ยามะเร็ง · ยา HIV · ยาลดน้ำตาล · Drug-induced Long QT · Rheumatology · ELSI
 
@@ -85,7 +98,7 @@
 
 |รายการ        |รายละเอียด          |
 |--------------|-------------------|
-|**บรรณาธิการ** |Martin M. Zdanowicz|
+|**บรรณาธิการ** |Martin M. Zdanowicz,PhD,MEd,MA|
 |**สำนักพิมพ์**    |ASHP Publications  |
 |**ปี**         |2017               |
 |**ISBN**      |978-1-58528-5167 |
@@ -95,9 +108,9 @@
 
 |ภาค                     |บท                                                                                                                                             |
 |------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-|Part 1: Fundamentals of Phamacogenomics  |Basic genetic concepts · Methodologies (NGS) · PK/PD · Drug metabolizing enzymes                                                               |
-|Part 2: Application of Pharmacogenomics in Therapeutic |Cardiovascular · Hematology/Oncology · CNS · Infectious diseases · Respiratory · Toxicogenomics                                                |
-|Part 3: Implementation Issues in Phamacogenomics |Ethical considerations · Role of pharmacists · Drug addiction PGx · Antidiabetic drugs · Point-of-care testing · Chemotherapy individualization|
+|Part 1: Fundamentals of Phamacogenomics  |• Pharmacogenomics: Current and Future Promise • The Genetic Basis of Pharmacogenomics • Methodologies in Pharmacogenomics • The Pharmacogenetics of Drug Metabolism • Pharmacogenomics of Transport Proteins • Pharmacodynamics and Pharmacogenomics                                                               |
+|Part 2: Application of Pharmacogenomics in Therapeutic |• Cardiovascular Disease • Hematology/Oncology Pharmacogenomics • Central Nervous System • Infectious Diseases • Respiratory Diseases • Toxicogenomics • The Pharmacogenetics of Addiction • Pharmacogenomics and Diabetes Mellitus                                            |
+|Part 3: Implementation Issues in Phamacogenomics |• Pharmacogenomic Testing and Drug Labeling • Pharmacogenomics in Practice: The Role of the Pharmacist • Ethics and Pharmacogenomics • Future of Pharmacogenomics in Clinical Practice|
 
 
 > — มี case studies ทุกบท, clinical pearls, ตาราง ครบ แต่ยังเขียนสำหรับเภสัชกร ไม่ใช่ประชาชน  
@@ -307,7 +320,7 @@ Proton Pump Inhibitors เป็นยาที่ถูกใช้บ่อย
 ** เพิ่ม: “ยีนคนไทย” — ข้อมูลพันธุกรรมเฉพาะประชากรไทยและเอเชียตะวันออกเฉียงใต้**  
 `USP สูงสุด` `ไม่มีในหนังสือทั้ง 5 เล่มเลย`
 
-นี่คือจุดขายที่แข็งแกร่งที่สุดของหนังสือเล่มนี้ ความถี่ของ HLA-B*15:02 ในคนไทยสูงกว่าคนยุโรปมาก ข้อมูล Genomics Thailand WGS 949 คน และ Thai 51 pharmacogenes WGS ให้ข้อมูลที่ไม่มีในหนังสือฝรั่งแม้แต่เล่มเดียว ควรขยายบทที่ 12 ให้มีตารางเปรียบเทียบความถี่อัลลีลไทย vs. ยุโรป vs. เอเชียตะวันออก
+นี่คือจุดเด่นที่แข็งแกร่งที่สุดของหนังสือเล่มนี้ ความถี่ของ HLA-B*15:02 ในคนไทยสูงกว่าคนยุโรปมาก ข้อมูล Genomics Thailand WGS 949 คน และ Thai 51 pharmacogenes WGS ให้ข้อมูลที่ไม่มีในหนังสือฝรั่งแม้แต่เล่มเดียว ควรขยายบทที่ 12 ให้มีตารางเปรียบเทียบความถี่อัลลีลไทย vs. ยุโรป vs. เอเชียตะวันออก
 
 
 
