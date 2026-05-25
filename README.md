@@ -90,7 +90,7 @@ Part II: Therapeutic Areas
 22. Application of Pharmacogenetics and Pharmacogenomics in Pediatrics: What Makes Children Different?
 23. Fetal and Neonatal Pharmacogenomics
 
->  **เนื้อหาที่เราอาจยังขาด:** ยามะเร็ง · ยา HIV · ยาลดน้ำตาล · Drug-induced Long QT · Rheumatology · ELSI
+>  **เนื้อหาที่เราอาจยังขาด:** ยามะเร็ง  · ยาลดน้ำตาล · Drug-induced Long QT · Rheumatology · ELSI
 
 -----
 
