@@ -113,7 +113,7 @@ Part II: Therapeutic Areas
 |Part 3: Implementation Issues in Phamacogenomics |• Pharmacogenomic Testing and Drug Labeling • Pharmacogenomics in Practice: The Role of the Pharmacist • Ethics and Pharmacogenomics • Future of Pharmacogenomics in Clinical Practice|
 
 
-> — มี case studies ทุกบท, clinical pearls, ตาราง ครบ แต่ยังเขียนสำหรับเภสัชกร ไม่ใช่ประชาชน  
+>  มี case studies ทุกบท, clinical pearls, ตาราง ครบ แต่ยังเขียนสำหรับเภสัชกร ไม่ใช่ประชาชน  
 >  **เนื้อหาที่เราอาจยังขาด:** Toxicogenomics · Drug addiction PGx · Antidiabetics · Point-of-care testing · Infectious diseases PGx · Ethical considerations (บทแยก)
 
 -----
@@ -244,7 +244,7 @@ Part II: Therapeutic Areas
 |ยาหัวใจ/หลอดเลือด (Clopidogrel, Statins)   |✅           |✅                    |✅               |✅                 |✅                    |
 |ยาจิตเวช (SSRIs, CYP2C19/2D6)             |✅           |✅                    |✅               |✅                 |✅                    |
 |ยา Opioids (Codeine, Tramadol)           |✅           |✅                    |✅               |✅                 |✅                    |
-|HLA (SJS/TEN) — Abacavir, CBZ            |✅           |✅                    |บางส่วน          |บางส่วน            |✅                    |
+|HLA (SJS/TEN) — Abacavir, CBZ            |✅           |✅                    |✅         |✅           |✅                    |
 |DDGI / Phenoconversion                   |✅           |บางส่วน               |บางส่วน          |บางส่วน            |บางส่วน               |
 |Drug Transporters (SLCO1B1, P-gp)        |✅           |✅                    |✅               |✅                 |✅                    |
 |กลุ่มพิเศษ (เด็ก ผู้สูงอายุ เชื้อชาติ)              |✅           |✅                    |✅               |✅                 |บางส่วน               |
@@ -257,7 +257,7 @@ Part II: Therapeutic Areas
 |Gastroenterology / IBD / PPI             |❌           |✅                    |❌               |✅                 |✅                    |
 |Rheumatology (ยาข้ออักเสบ)                 |❌           |✅                    |❌               |✅                 |❌                    |
 |Drug-induced Long QT syndrome            |❌           |❌                    |❌               |✅                 |❌                    |
-|Ethical / Legal / Social Issues (ELSI)   |❌ (มีแค่บท 13)|✅                    |✅               |✅                 |✅                    |
+|Ethical / Legal / Social Issues (ELSI)   |❌ (มีแค่บท 13)|✅                    |✅               |บางส่วน (บท13)                |✅                    |
 |Adverse Drug Reactions (บทแยก)           |❌           |✅                    |❌               |❌                 |✅                    |
 |Toxicogenomics                           |❌           |❌                    |✅               |❌                 |❌                    |
 |Industry & Regulatory Affairs (FDA/EMA)  |❌           |❌                    |❌               |❌                 |✅                    |
